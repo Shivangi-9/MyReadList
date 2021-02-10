@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyReadList</string>
+    <string name="myListBtn">MY LIST</string>
+    <string name="searchBtn">SEARCH</string>
+    <string name="addBtn">ADD</string>
+    <string name="searchHint">Search Book</string>
+    <string name="bookNameHint">Enter Book Title</string>
+    <string name="authorHint">Enter Author</string>
+    <string-array name="genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Comic</item>
+        <item>Educational</item>
+        <item>Historical</item>
+        <item>Horror</item>
+        <item>Romance</item>
+        <item>Sci-Fi</item>
+        <item>Thriller</item>
+    </string-array>
+    <string name="queueRadioList">Add to Queue</string>
+    <string name="readingRadioList">Reading</string>
+    <string name="completeRadioList">Completed</string>
+    <string name="categoryText">Select a category</string>
+    <string name="readingStage">Select the progress</string>
+    <string name="authorTextView">Author: </string>
+    <string name="categoryTextView">Category: </string>
+</resources>
